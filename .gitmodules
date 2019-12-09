@@ -1,0 +1,6 @@
+[submodule "ToyProjects/ToyProject1"]
+	path = ToyProjects/ToyProject1
+	url = git@github.com:algol-21/ToyProject1.git
+[submodule "ToyProjects/ToyProject2"]
+	path = ToyProjects/ToyProject2
+	url = git@github.com:algol-21/ToyProject2.git
